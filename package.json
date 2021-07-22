@@ -1,5 +1,5 @@
 {
-  "name": "network-racer",
+  "name": "@jckbb/network-racer",
   "version": "1.0.0",
   "description": "timeout network requests",
   "main": "src/main.js",

@@ -1,0 +1,24 @@
+{
+  "name": "network-racer",
+  "version": "1.0.0",
+  "description": "timeout network requests",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jckbb/network-racer.git"
+  },
+  "keywords": [
+    "network",
+    "timeout",
+    "request"
+  ],
+  "author": "Joejoeb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jckbb/network-racer/issues"
+  },
+  "homepage": "https://github.com/jckbb/network-racer#readme"
+}

@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/jckbb/network-racer/issues"
   },
-  "homepage": "https://github.com/jckbb/network-racer#readme"
+  "homepage": "https://github.com/jckbb/network-racer#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
 }
